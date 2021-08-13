@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch _9_InmutabilidadStrings",
+            "request": "launch",
+            "mainClass": "_9_InmutabilidadStrings",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _8_Concatenacion",
+            "request": "launch",
+            "mainClass": "_8_Concatenacion",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _7_String",
+            "request": "launch",
+            "mainClass": "_7_String",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _6_PrimitivosYPrimitivos",
+            "request": "launch",
+            "mainClass": "_6_PrimitivosYPrimitivos",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _5_StringYPrimitivos",
+            "request": "launch",
+            "mainClass": "_5_StringYPrimitivos",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _4_IngresarDatosPorTerminal",
+            "request": "launch",
+            "mainClass": "_4_IngresarDatosPorTerminal",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_IngresarDatosPorVentana",
+            "request": "launch",
+            "mainClass": "_3_IngresarDatosPorVentana",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch _2_SistemasNumericos",
+            "request": "launch",
+            "mainClass": "_2_SistemasNumericos",
+            "projectName": "Java-studies_386e241"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1_HolaMundo",
+            "request": "launch",
+            "mainClass": "_1_HolaMundo",
+            "projectName": "Java-studies_386e241"
+        }
+    ]
+}
