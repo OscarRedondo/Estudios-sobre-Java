@@ -1,4 +1,4 @@
-public class _1_HolaMundo {
+public class _01_HolaMundo {
     public static void main(String[] args) {
         String saludo = "Hola mundo, desde Java.\n";
         System.out.println(saludo);

@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
     /* En este codigo vamos a importar dos clases.
         Pon mucha atención en dónde van y para qué se utilizan. */
 
-public class _4_IngresarDatosPorTerminal {
+public class _04_IngresarDatosPorTerminal {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
             /* En esta línea se crea una instancia de la clase "Scanner", un objeto.

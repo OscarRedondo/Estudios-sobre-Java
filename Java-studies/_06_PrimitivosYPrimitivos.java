@@ -1,4 +1,4 @@
-public class _6_PrimitivosYPrimitivos {
+public class _06_PrimitivosYPrimitivos {
     public static void main(String[] args) {
         /* En la anterior clase vimos como pasar el tipo de una variable desde los primitivos hacia los String, y visceversa.
             En esta pequeña clase ahora mostraremos como transformar una variable primitiva en otro tipo de variable primitiva. */

@@ -1,4 +1,4 @@
-public class _9_StringInmutabilidad{
+public class _09_StringInmutabilidad{
     public static void main (String[] args){
         /* Hemos mencionado muchas veces la inmutabilidad de los String, pero ahora vamos a dedicarle un tiempo a este tema en exclusivo.
             Los String no pueden alterarse, eso es lo que significa ser inmutable.

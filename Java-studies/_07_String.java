@@ -1,4 +1,4 @@
-public class _7_String{
+public class _07_String{
     public static void main(String[] args){
         /* El String es un objeto de java del tipo de referencia, no primitivo.
             Hay que tener en cuenta que una definición valida para los tipo String es que son un "arreglo de carácteres", y todo arreglo en Java es un objeto.
