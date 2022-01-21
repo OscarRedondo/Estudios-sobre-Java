@@ -1,3 +1,4 @@
+package _2_String;
 public class _10_ConcatenacionRendimiento{
     public static void main (String[] args){
         /* En esta sección veremos el rendimiento de cada uno de los métodos de concatenación que ofrece Java.

@@ -1,3 +1,4 @@
+package _1_Variables;
 import java.util.Scanner;
 import java.util.InputMismatchException;
     /* En este codigo vamos a importar dos clases.
@@ -22,14 +23,14 @@ public class _04_IngresarDatosPorTerminal {
                 El método "nextLine" obtiene el valor que ingresa el usuario por la terminal, siempre y cuando este sea de tipo String.
                 Además, obliga al programa a frenarse hasta que el usuario ingrese algún tipo de dato por la terminal.
                 
-                **ESTA LÍNEA SE ENCUENTRA COMENTADA PORQUE SE BUSCA EXPLICAR LO QUE HACE, PERO NO ES NECESARIA YA QUE A CONTINUACIÓN SE REEMPLAZARÁ
-                    POR OTRA LÍNEA DE CÓDIGO MÁS ÓPTIMA.** */
+                **ESTA L�?NEA SE ENCUENTRA COMENTADA PORQUE SE BUSCA EXPLICAR LO QUE HACE, PERO NO ES NECESARIA YA QUE A CONTINUACIÓN SE REEMPLAZAR�?
+                    POR OTRA L�?NEA DE CÓDIGO M�?S ÓPTIMA.** */
         
         int numeroIngresado = 0;
         try{                   
             // numeroIngresado = Integer.parseInt(numeroStr);
-                /* **ESTA LÍNEA SE ENCUENTRA COMENTADA PORQUE SE BUSCA EXPLICAR LO QUE HACE, PERO NO ES NECESARIA YA QUE A CONTINUACIÓN SE REEMPLAZARÁ
-                    POR OTRA LÍNEA DE CÓDIGO MÁS ÓPTIMA.** */
+                /* **ESTA L�?NEA SE ENCUENTRA COMENTADA PORQUE SE BUSCA EXPLICAR LO QUE HACE, PERO NO ES NECESARIA YA QUE A CONTINUACIÓN SE REEMPLAZAR�?
+                    POR OTRA L�?NEA DE CÓDIGO M�?S ÓPTIMA.** */
 
             numeroIngresado = scanner.nextInt();
             /* Si has estado leyendo los comentarios, ya te puedes ahcer una ídea de la funcionalidad de está línea.

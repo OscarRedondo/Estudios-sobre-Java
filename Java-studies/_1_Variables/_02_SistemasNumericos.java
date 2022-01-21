@@ -1,3 +1,4 @@
+package _1_Variables;
 public class _02_SistemasNumericos{
     public static void main(String[] args) {
         short numeroDecimal = 503; /* El valor numérico que contiene esta variable se encuentra en el sistema decimal.

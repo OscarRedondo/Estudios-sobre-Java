@@ -1,3 +1,4 @@
+package _1_Variables;
 public class _06_PrimitivosYPrimitivos {
     public static void main(String[] args) {
         /* En la anterior clase vimos como pasar el tipo de una variable desde los primitivos hacia los String, y visceversa.

@@ -1,3 +1,4 @@
+package _1_Variables;
 import javax.swing.JOptionPane;
     /* Esta línea nos sirve para importar el método "JOptionPane" que vamos a utilizar en este código.
        No todas las herramientas disponibles en Java están accesibles por default, por lo que toca importarlas para poder hacer uso de ellas. */

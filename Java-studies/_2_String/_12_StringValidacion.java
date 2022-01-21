@@ -1,3 +1,4 @@
+package _2_String;
 public class _12_StringValidacion{
     public static void main (String[] args){
         /* A veces puede que queramos validar algún String. Es decir: saber si es null, si tiene alguna referencia, si tiene un largo y cuál sería este,

@@ -1,3 +1,4 @@
+package _2_String;
 public class _08_Concatenacion {
     public static void main(String[] args){
         /* Ya hemos hablado bastante sobre los operadores, y es un tema que tocaremos más a profundidad muy pronto.
@@ -27,7 +28,7 @@ public class _08_Concatenacion {
             Al encontrarse con un valor de tipo cadena de texto lo que hace imprimir ese valor y el resto como si de cadenas de texto se tratase.
             En este caso, lo números son transformados a String antes de que se efectue la formula. */
         
-        System.out.println("Lo siguiente SÍ es una suma: " + (numeroUno + numeroDos));
+        System.out.println("Lo siguiente S�? es una suma: " + (numeroUno + numeroDos));
 
         /* Una forma de cambiar ese comportamiento es aumentando la prioridad de la operación numérica.
             Al usar los paréntesis le decimos al programa que ese argumento, en este caso una suma numérica, es el que tiene mayor prioridad.            

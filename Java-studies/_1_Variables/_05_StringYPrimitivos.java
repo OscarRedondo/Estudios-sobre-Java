@@ -1,3 +1,4 @@
+package _1_Variables;
 public class _05_StringYPrimitivos{
     public static void main(String[] args){
         /* En esta clase vamos a convertir valores primitivos a String y visceversa.
@@ -73,8 +74,8 @@ public class _05_StringYPrimitivos{
         System.out.println(otroNumeroStr + "\n");
 
         otroNumeroStr = String.valueOf(otroNumeroInt + 10);
-            /* ** FIJEMONOS EN ESTA LÍNEA QUE NO USA LA CLASE WRAPPER. EN SU LUGAR, USAR UN MÉTODO DE LA CLASE STRING.
-                    CON ESTE MÉTODO EN ESPECIFICO DEBEMOS TENER CUIDADO, PORQUE ACEPTA MÁS DE UN TIPO DE ARGUMENTO.
+            /* ** FIJEMONOS EN ESTA L�?NEA QUE NO USA LA CLASE WRAPPER. EN SU LUGAR, USAR UN MÉTODO DE LA CLASE STRING.
+                    CON ESTE MÉTODO EN ESPECIFICO DEBEMOS TENER CUIDADO, PORQUE ACEPTA M�?S DE UN TIPO DE ARGUMENTO.
                     SI NOS EQUIVOCAMOS CON EL TIPO DE ARGUMENTO QUE ENVIAMOS PODEMOS TENER RESULTADOS INESPERADOS. ** */
 
         System.out.println(otroNumeroStr);

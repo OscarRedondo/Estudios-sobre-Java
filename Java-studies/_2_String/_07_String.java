@@ -1,3 +1,4 @@
+package _2_String;
 public class _07_String{
     public static void main(String[] args){
         /* El String es un objeto de java del tipo de referencia, no primitivo.
